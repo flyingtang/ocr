@@ -1,0 +1,22 @@
+{
+  "name": "ocr",
+  "version": "1.0.0",
+  "description": "图像识别",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/txg5214/ocr.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/txg5214/ocr/issues"
+  },
+  "homepage": "https://github.com/txg5214/ocr#readme",
+  "dependencies": {
+    "node-tesseract": "^0.2.7"
+  }
+}
